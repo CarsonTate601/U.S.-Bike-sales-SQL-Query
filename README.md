@@ -1,0 +1,2 @@
+-- This SQL query aggregates data to build a comprehensive table for creating a dashboard to analyze sales trends over multiple years.
+-- It gathers data related to customer sales, units sold, different brands that were sold, and the states and stores where the sales took place.
